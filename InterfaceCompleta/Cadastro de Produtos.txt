@@ -1,0 +1,3 @@
+Nome: Sabão
+Código: 256-02
+Custo: 3,25
